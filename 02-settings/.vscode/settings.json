@@ -1,0 +1,10 @@
+{
+  "editor.wordWrapColumn": 80,
+  "editor.rulers": [80],
+  "editor.formatOnSave": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "black-formatter.args": ["--line-length", "80"]
+}
